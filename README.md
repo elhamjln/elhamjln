@@ -2,9 +2,13 @@
 
 ## Backend Developer | Python & FastAPI
 
-I'm a Computer Engineering student passionate about backend development and building scalable RESTful APIs with Python.
+I'm a Backend Developer focused on building RESTful APIs and backend applications with Python and FastAPI.
 
-I enjoy designing clean architectures, working with databases, and developing real-world backend systems using modern technologies.
+I enjoy designing scalable backend systems, working with databases, and writing clean, maintainable code. My projects focus on REST API development, authentication, database design, and backend architecture.
+
+---
+
+## 🚀 Tech Stack
 
 ---
 
